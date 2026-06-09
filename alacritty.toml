@@ -6,7 +6,7 @@ decorations = "none"
 opacity = 0.9
 
 [font]
-normal = { family = "FiraCode Nerd Font" }
+normal = { family = "FiraCode Nerd Font Mono" }
 size = 12
 
 [mouse]
